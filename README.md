@@ -210,10 +210,8 @@ Created interactive:
 
 
 # Dashboard Preview
+<img width="1192" height="747" alt="Dashboard" src="https://github.com/user-attachments/assets/82f64190-5b11-4b6c-a25c-6a779da1df3b" />
 
-<p align="center">
-  <img src="Images/Dashboard.png" width="100%">
-</p>
 
 ## 📥 Download Report
 
