@@ -6,14 +6,6 @@ A comprehensive **Healthcare Analytics Dashboard** built using **Power BI** to a
 
 ---
 
-# 📌 Dashboard Preview
-
-<p align="center">
-  <img src="Images/Dashboard.png" alt="Papollo Healthcare Dashboard" width="100%">
-</p>
-
----
-
 ## 📌 Project Overview
 
 This interactive Power BI dashboard transforms healthcare data into actionable insights, enabling hospital administrators and healthcare professionals to monitor operational performance, optimize resource allocation, and improve patient care.
