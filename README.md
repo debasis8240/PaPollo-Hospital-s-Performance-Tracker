@@ -207,11 +207,15 @@ Created interactive:
 
 ---
 
-## 📥 Download Power BI Dashboard
+# Dashboard Preview
 
-Click the button below to download the Power BI report.
+<p align="center">
+  <img src="Images/Dashboard.png" width="100%">
+</p>
 
-[![Download PBIX](https://img.shields.io/badge/Download-Power%20BI%20Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](Dashboard/Papollo-Healthcare-Dashboard.pbix)
+## 📥 Download Report
+
+[![Power BI](https://img.shields.io/badge/Download-PBIX-yellow?style=for-the-badge&logo=powerbi)](Dashboard/Papollo%20Dashboard.pbix)
 
 ## 🎯 Business Recommendations
 
