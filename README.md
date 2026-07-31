@@ -199,6 +199,16 @@ Created interactive:
 
 ---
 
+# 📷 Dashboard Preview
+
+<p align="center">
+  <img src="Images/Dashboard.png" alt="Papollo Healthcare Dashboard" width="100%">
+</p>
+
+
+---
+
+
 # Dashboard Preview
 
 <p align="center">
